@@ -1,0 +1,135 @@
+
+body {
+    background :#000000 url('bd3.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.colorkit {
+    background-color: rgb(180, 180, 180);
+    color: black;
+    text-align: center;
+    font-family:verdana;
+    width: auto;
+
+}
+
+.colorbody {
+    width: auto;
+    height: auto;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgba(216, 215, 223, 0.479);
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-top: 5px;
+    padding-right: 35px;
+    padding-bottom: 30px;
+    position: absolute;
+    top: 25%;
+    left: 38%;
+}
+
+.colortable {
+    background-color: whitesmoke;
+    background-size: auto;
+    font-family:verdana;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 305px;
+    margin-left: 500px;
+}
+
+.colorsearch {
+    background-color: whitesmoke;
+    background-size: auto;
+    font-family:verdana;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 600px;
+    margin-left: 570px;
+}
+#b1 {
+    border-radius: 20px;
+    background: rgb(39, 27, 63);
+    padding: 10px 120px;
+    font-family: Verdana;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#b2 {
+    border-radius: 20px;
+    background: rgb(39, 27, 63);
+    padding: 10px 129px;
+    font-family: Verdana;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#b3 {
+    border-radius: 20px;
+    background: rgb(39, 27, 63);
+    padding: 10px 125px;
+    font-family: Verdana;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#b4 {
+    border-radius: 20px;
+    background: rgb(39, 27, 63);
+    padding: 10px 102px;
+    font-family: Verdana;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+}
+h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(215, 210, 203);
+    font-family: courier;
+    color: black;
+    -webkit-transform: translateY(22px);
+    -ms-transform: translateY(22px);
+    transform: translateY(22px);
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.8s ease-in-out;
+    font-size: 50px;
+}
+h3 {
+    background: rgba(255, 255, 255, 0.336);
+    padding: 10px 100px;
+    font-family: courier;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+}
+p {
+    padding: 10px 100px;
+    font-family: Verdana;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+}
+#Brand {
+    background: rgba(24, 1, 43, 0.336);
+    padding: 10px 100px;
+    font-family: courier;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+}
+#Size {
+    padding: 10px 70px;
+    font-family: courier;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 15px;
+}
